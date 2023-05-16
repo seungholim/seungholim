@@ -8,7 +8,7 @@
 
 ## 🛠️Tech Stack
 
-`Python` `MySQL` `C` `Pytorch` `HTML` `CSS`  
+`C` `Python` `ML/DL` `Visualization` `Modeling` `Pytorch` `MySQL`  
 
 
 
