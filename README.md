@@ -6,13 +6,17 @@
 
  📪 **ho4788@gmail.com**
 
-## 🛠️Tech Stack
+## 📚 Language
 
-`C` `Python` `ML/DL` `Visualization` `Modeling` `Pytorch` `OpenCV` `YOLO` `MySQL`  
+`C`  `Python`  `MySQL`
 
+## 🧠 ML/DL
 
+`Numpy`  `Pandas`  `Matplotlib`  `Seaborn`  `Pytorch`  `Keras`  `Tensorflow`  `opencv`  `YOLO`  
 
+## 👩‍👦‍👦 Communication
 
+`Slack`  `Notion`  `Git`
 
 
 
