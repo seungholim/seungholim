@@ -8,7 +8,7 @@
 
 ## 📚 Language
 
-`C`  `Python`  `MySQL`
+`C`  `C++`  `Python`  `MySQL`
 
 ## 🧠 ML/DL
 
