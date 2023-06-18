@@ -8,11 +8,11 @@
 
 ## 📚 Language
 
-`C`  `C++`  `Python`  `MySQL`
+`C`  `C++`  `Python`  `SQL`
 
 ## 🧠 ML/DL
 
-`Numpy`  `Pandas`  `Matplotlib`  `Seaborn`  `Pytorch`  `Keras`  `Tensorflow`  `opencv`  `YOLO`  
+`Numpy`  `Pandas`  `Matplotlib`  `Seaborn`  `Pytorch`  `Keras`  `Tensorflow`  `Opencv`  `YOLO`  
 
 ## 👩‍👦‍👦 Communication
 
